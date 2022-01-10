@@ -49,3 +49,6 @@ function reverseString(value){
         return char + arrStr;
     }, '');
 }
+
+const result = reverseString('hello LHD');
+console.log(result);
